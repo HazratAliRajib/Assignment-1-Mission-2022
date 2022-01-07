@@ -7,7 +7,7 @@ h1{
 }
 .top-titel{
     font-family: Yeseva One;
-    border-left: 5px solid #6405e0;
+    border-left: 5px solid rgb(100, 5, 225);
     padding-left: 10px;
 }
 .hero-left{
@@ -178,8 +178,18 @@ footer{
     background-color: black;
     color: white;
     text-align: center;
-    padding:10px 0px;
+    padding-top: 10px;
+    padding-bottom: 50px;
+
 }
 .footer-titel{
     font-family: 'Lobster', cursive;
+    font-size: 30px;
+    margin-bottom: -30px;
+}
+.footer-2022{
+    color: tomato;
+}
+small{
+    color: rgb(170, 167, 167);
 }
