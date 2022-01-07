@@ -110,9 +110,6 @@ p{
 }
 
 
-
-
-
 .half-width{
     width: 50%;
     margin-top: 40px;
@@ -137,6 +134,7 @@ p{
     margin-bottom: 100px;
 }
 .hazrat-pic img{
+    margin-top: 60px;
     width: 85%;
     border-radius: 100%;
     padding: 7px;
