@@ -77,6 +77,12 @@ h1{
     background-color: rgba(219, 154, 225, 0.342);
 }
 
+.develop-without-limits{
+    background-image: url(./Images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position:50px;
+    background-size: 15%;
+}
 
 .section-3{
     display: flex;
@@ -89,6 +95,12 @@ padding-right: 50px;
     width: 100%;
 }
 
+.know-our-global-community{
+    background-image: url(./Images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right 60px bottom;
+    background-size: 15%;
+}
 
 #our-globl{
     font-size: 30px;
