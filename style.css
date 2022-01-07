@@ -18,7 +18,6 @@ h1{
 }
 .hero-button{
     padding-bottom: 15px;
-    padding-top: 15px;
 }
 .hazrat-ali-image img{
     width: 50%;
@@ -75,4 +74,36 @@ h1{
 }
 .card-3{
     background-color: rgba(219, 154, 225, 0.342);
+}
+
+
+.section-3{
+    display: flex;
+    margin: 100px 5% 100px 12%;
+}
+.coading-section{
+padding-right: 50px;
+}
+.coading-section img{
+    width: 100%;
+}
+
+
+#our-globl{
+    font-size: 30px;
+}
+.our-community{
+    display: flex;
+    margin: 100px 5%;
+}
+.our-community img{
+    width: 70%;
+    margin-left: 50px;
+}
+.community-half{
+    width: 50%;
+    padding-left: 30px;
+}
+p{
+    padding-bottom: 20px;
 }
