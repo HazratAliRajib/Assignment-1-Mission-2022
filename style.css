@@ -171,6 +171,9 @@ p{
     display: flex;
     margin-right: 30px;
 }
+.icon a {
+            text-decoration: none;
+        }
 .icon{
     margin-right: 10px;
     width: 35px;
@@ -182,6 +185,7 @@ p{
 }
 .about-bottom{
         display:inline-flex;
+        align-items: center;
         margin-top: 30px;
 }
 footer{
